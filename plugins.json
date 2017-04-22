@@ -615,6 +615,12 @@
 			"configName": "ExoticGarden",
 			"requiredRank": "2",
 			"freePlugin": "true"
+		},
+		{
+			"name": "Armorstand Editor",
+			"desc": "Allows players in survival to easily edit armor stand pose and attributes.",
+			"jarName": "armorstandeditor-1.11.2-19.jar",
+			"configName": "Armorstand Editor"
 		}
 	]
 }
